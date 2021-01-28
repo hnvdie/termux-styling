@@ -1,4 +1,4 @@
-plug#begin('~/.vim/plugged/')
+call plug#begin('~/.vim/plugged')
 
 Plug 'arcticicestudio/nord-vim'
 Plug 'preservim/nerdtree'
