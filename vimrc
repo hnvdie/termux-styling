@@ -1,5 +1,4 @@
-# install python-vim
-call plug#begin('~/.vim/plugged/')
+plug#begin('~/.vim/plugged/')
 
 Plug 'arcticicestudio/nord-vim'
 Plug 'preservim/nerdtree'
