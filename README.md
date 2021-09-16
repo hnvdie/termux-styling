@@ -1,5 +1,3 @@
-# Vim Config For Termux
-
 * install Plug
 ```
 $ cat plug (copy and paste)
